@@ -10,8 +10,10 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/heitor-brandolin/)
 [![(Linketree)](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/Code_tor)
 
-
 ![Anurag GitHub stats][def]
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devhetor&layout=compact)][def2]
+
 
 ## Tecnologias que estou estudado:
 <div style="display: inline_block"><br/>
@@ -24,3 +26,5 @@
 </div><br/>
 
 [def]: https://github-readme-stats.vercel.app/api?username=Devhetor&show_icons=true&theme=radical
+[def2]: https://github.com/anuraghazra/github-readme-stats
+
