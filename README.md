@@ -1,5 +1,5 @@
 
-# Olá! sou o Heitor Brandolin 👋
+# Olá! sou Heitor Brandolin 👋
 
 ### Estou no 4° periodo de Engenharia de Software na Unicesumar 📜
 ### Rumo ao Full Stack 🚀
