@@ -11,7 +11,6 @@
 [![(Linketree)](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/Code_tor)
 
 ![Anurag GitHub stats][def]
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devhetor&layout=compact)][def2]
 
 
