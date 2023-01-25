@@ -15,7 +15,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devhetor&layout=compact)][def2]
 
 
-## Tecnologias que estou estudado:
+## Tecnologias que estou estudando:
 <div style="display: inline_block"><br/>
     <img align="ceter" alt="html5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
     <img align="ceter" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
