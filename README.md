@@ -2,8 +2,8 @@
 # Hi Dear! 👋
 
 ### Me chamo Heitor Brandolin, tenho 20 anos
-### Estou no 4° periodo de Engenharia de Software na Unicesumar 📜
-### Rumo ao Full Stack 🚀
+### Estou no 5° periodo de Engenharia de Software na Unicesumar 📜
+### Rumo ao Desenvolvimento mobile🚀
 ### Apaixoado por tecnologia ❤️
 
 ## Me siga nas Redes Socias:
