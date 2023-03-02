@@ -4,7 +4,7 @@
 ### Me chamo Heitor Brandolin, tenho 20 anos
 ### Estou no 5° periodo de Engenharia de Software na Unicesumar 📜
 ### Rumo ao Desenvolvimento mobile🚀
-### Apaixoado por tecnologia ❤️
+### Apaixonado por tecnologia ❤️
 
 ## Me siga nas Redes Socias:
 [![Intagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=whit)](https://www.instagram.com/tor_brandolin/)
