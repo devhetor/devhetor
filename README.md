@@ -28,3 +28,4 @@
 [def]: https://github-readme-stats.vercel.app/api?username=Devhetor&show_icons=true&theme=radical
 [def2]: https://github.com/anuraghazra/github-readme-stats
 
+![snake gif](https://github.com/devhetor/devhetor/blob/output/github-contribution-grid-snake.svg)
