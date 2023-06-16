@@ -11,7 +11,7 @@ I'm Heitor Brandolin, a 20-year-old student currently pursuing a degree in Softw
 ![Anurag GitHub stats](https://github-readme-stats.vercel.app/api?username=Devhetor&show_icons=true&theme=radical)
 
 ## Top Languages:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devhetor&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devhetor&layout=compact)](https://github.com/devhetor/github-readme-stats)
 
 ## Technologies I'm Studying:
 <div style="display: inline_block">
