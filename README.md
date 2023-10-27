@@ -26,7 +26,7 @@ I'm Heitor Brandolin, a 20-year-old student currently pursuing a degree in Softw
 
 ## Contributions and Stats:
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/devhetor/devhetor/blob/3cffe0b56ff711ad2e425691bb7f755d1779a5cd/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
 </picture>
