@@ -25,8 +25,6 @@ I'm Heitor Brandolin, a 20-year-old student currently pursuing a degree in Softw
 </div>
 
 ## Contributions and Stats:
-![snake gif](https://github.com/devhetor/devhetor/blob/output/github-contribution-grid-snake.svg)
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
