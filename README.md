@@ -8,7 +8,7 @@ I'm Heitor Brandolin, a 20-year-old student currently pursuing a degree in Softw
 [![Linktree](https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/Code_tor)
 
 ## GitHub Stats:
-![Anurag GitHub stats](https://github-readme-stats.vercel.app/api?username=Devhetor&show_icons=true&theme=radical)
+![Anurag GitHub stats](https://github-readme-stats.vercel.app/api?username=devhetor&show_icons=true&theme=radical)
 
 ## Top Languages:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devhetor&layout=compact)](https://github.com/devhetor/github-readme-stats)
