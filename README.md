@@ -1,5 +1,5 @@
-<p align="center">
-Software Engineering student focused on Android development with experience in Kotlin and Jetpack Compose.</p>&nbsp;
+<h1 align="center">
+Software Engineering student focused on Android development with experience in Kotlin and Jetpack Compose.</h1>
 
 
 ## My Skills
