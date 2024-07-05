@@ -1,38 +1,48 @@
-# Hi there! 👋
+<p align="center">
+Software Engineering student focused on Android development with experience in Kotlin and Jetpack Compose.</p>&nbsp;
 
-I'm Heitor Brandolin, a 21-year-old student currently pursuing a degree in Software Engineering at Unicesumar. I'm on the path to becoming a mobile developer. 👨‍💻
 
-## Follow me on Social Media:
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tor_brandolin/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/heitor-brandolin/)
-[![Linktree](https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/Code_tor)
+## My Skills
 
+#### Main Stack:
+
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)&nbsp;
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
+![Nest](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)&nbsp;
+
+<img src="https://cdnb.artstation.com/p/assets/images/images/035/838/193/original/beatriz-conrado-happyjoy.gif?1616023466" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+
+
+#### Studying in this moment:
+
+![Firebase](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=firebase&logoColor=ffca28)&nbsp;
+![docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)&nbsp;
+![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)&nbsp;
+
+#### Databases:
+
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
+#### Workstation Tools:
+
+![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
+![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0)&nbsp;
+
+### Tools
+
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+![Figma](https://img.shields.io/badge/Figma-696969?style=for-the-badge&logo=figma&logoColor=figma)
+
+&nbsp;
+&nbsp;
+
+## Contacts:
 <div> 
-  <a href="https://github.com/devhetor">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devhetor&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devhetor&layout=compact&langs_count=7&theme=gotham"/>
-</div>
-
+</a>
+<a href = "mailto:heitorbrandolincontato@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/heitor-brandolin/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
+<a href="https://linktr.ee/Code_tor" target="_blank"><img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" target="_blank"></a> 
+</div>&nbsp;&nbsp;
  
-<div style="display: flex; justify-content: center;"><br>
-  <img align="center" alt="kotlin" height="30" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-plain.svg'>
-  <img align="center" alt="Node" height="30" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg'>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Java" height="30" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg'>
-  <img align="center" alt="Mongo" height="30" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg'>
-  <img align="center" alt="mysql" height="30" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg'>
-</div>
-
-<br/>
-
-<img align="center" alt="mysql" height="200" width="350" src='https://64.media.tumblr.com/0b26d836185b7286e2c18e408147f161/5bac9b34685ea9b4-cf/s640x960/f2309e95686b4028cb8c348705844be39fd54674.gifv'>
-  
-## Contributions and Stats:
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/devhetor/devhetor/blob/3cffe0b56ff711ad2e425691bb7f755d1779a5cd/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/devhetor/devhetor/blob/3cffe0b56ff711ad2e425691bb7f755d1779a5cd/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-</picture>
-
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&text=Stay%20Focused&section=footer"/>
