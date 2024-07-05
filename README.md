@@ -10,7 +10,7 @@ Software Engineering student focused on Android development with experience in K
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
 ![Nest](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)&nbsp;
 
-<img src="https://cdnb.artstation.com/p/assets/images/images/035/838/193/original/beatriz-conrado-happyjoy.gif?1616023466" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://github.com/devhetor/assets/blob/363537a35258457af6073acd0cc5d5882cd9f5d1/beatriz-conrado-happyjoy.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 
 #### Studying in this moment:
