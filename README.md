@@ -1,50 +1,45 @@
-<h1 align="center">
-Software Engineering student focused on Android development with experience in Kotlin and Jetpack Compose.</h1>
+<h1 align="center">Front-End Developer with a sprinkle of mobile magic!</h1>
 
+## About Me 🌟
+A curious developer, always experimenting with new technologies to create seamless and innovative experiences.
 
-## My Skills
+## My Skills 💪
 
-#### Main Stack:
-
+#### Main Stack: 🎯
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)&nbsp;
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)&nbsp;
 ![Nest](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)&nbsp;
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)&nbsp;
 
-<img src="https://github.com/devhetor/assets/blob/363537a35258457af6073acd0cc5d5882cd9f5d1/beatriz-conrado-happyjoy.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2MzZTIxYnVtOWMzeWtxbmlwd3FrZ3htOW5vcG5uNmprZ3AxM3lycyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/I3rbjijgss7D2Oab2A/giphy.gif" width="300px" align="right" alt="Computador iuriCode">
 
-
-#### Studying in this moment:
-
+#### Currently learning and exploring: 📖
 ![Firebase](https://img.shields.io/badge/Firebase-000?style=for-the-badge&logo=firebase&logoColor=ffca28)&nbsp;
-![docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)&nbsp;
-![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)&nbsp;
 
-#### Databases:
-
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
-![Postgres](https://img.shields.io/badge/Postgresql-005C84?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
-#### Workstation Tools:
-
-![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
+#### Workstation Tools: 💻
+![Vscode](https://img.shields.io/badge/Vscode-000000?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
+![Intellij](https://img.shields.io/badge/IntelliJ-000?style=for-the-badge&logo=intellij-idea&logoColor=ffffff)&nbsp;
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
-![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0)&nbsp;
 ![Zorin](https://img.shields.io/badge/Zorin-000?style=for-the-badge&logo=zorin&logoColor=2CA5E0)&nbsp;
 
-### Tools
-
+### Tools 🛠️
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-![Figma](https://img.shields.io/badge/Figma-696969?style=for-the-badge&logo=figma&logoColor=figma)
+![Figma](https://img.shields.io/badge/Figma-696969?style=for-the-badge&logo=figma&logoColor=figma)&nbsp;
+![PGModeler](https://img.shields.io/badge/PGModeler-2F2F2F?style=for-the-badge&logo=appveyor&logoColor=white)&nbsp;
 
-&nbsp;
-&nbsp;
-
-## Contacts:
+## Contacts: 📲
 <div> 
-</a>
-<a href = "mailto:heitorbrandolincontato@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/heitor-brandolin/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
-<a href="https://linktr.ee/Code_tor" target="_blank"><img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" target="_blank"></a> 
+  <a href="mailto:heitorbrandolincontato@gmail.com"> 
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
+  <a href="https://www.linkedin.com/in/heitor-brandolin/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
+  <a href="https://linktr.ee/Code_tor" target="_blank">
+    <img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" target="_blank">
+  </a>
 </div>&nbsp;&nbsp;
- 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&text=Stay%20Focused&section=footer"/>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&text=Be%20awesome!&section=footer"/>
