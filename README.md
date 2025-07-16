@@ -47,5 +47,3 @@ A curious developer, always experimenting with new technologies to create seamle
     <img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" target="_blank">
   </a>
 </div>&nbsp;&nbsp;
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&text=Be%20awesome!&section=footer"/>
